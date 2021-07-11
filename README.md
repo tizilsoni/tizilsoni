@@ -51,7 +51,7 @@
 <a href="https://www.twitter.com/tizilsoni"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/tizilsoni"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:soni.tizil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-34eba8?style=for-the-badge&logo=gmail"></a>
-<a href="www.github.com/tizilsoni"><img alt="Email" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/tizilsoni"><img alt="Email" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </p>
 </details>
