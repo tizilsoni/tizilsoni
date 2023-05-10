@@ -26,7 +26,7 @@
 
 <!--START_SECTION:colourise-->
 <p align=left>
-<img src="https://img.shields.io/badge/solidity-%3E=%200.6.8-black](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
