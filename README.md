@@ -10,7 +10,7 @@
 
 - I'm Tizil, I completed MSc. Cyber Security 🎓 from <a href="https://www.ganpatuniversity.ac.in/">Ganpat University Mehsana</a>.
 - I did Bsc.(Hons.) Computer Science from Ramanujan College, Delhi University.
-- Currently Working as Blockchain Developer Intern at <a href="coindelta.io">Coin Delta(Web4Next)</a>
+- Currently Working as Blockchain Developer Intern at <a href="https://www.coindelta.io">Coin Delta(Web4Next)</a>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
