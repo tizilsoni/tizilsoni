@@ -8,8 +8,9 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hey Stranger! </h3> 
 
-- I'm Tizil, Currently Pursuing MSc. Cyber Security 🎓 from <a href="https://www.ganpatuniversity.ac.in/">Ganpat University Mehsana</a>.
+- I'm Tizil, I completed MSc. Cyber Security 🎓 from <a href="https://www.ganpatuniversity.ac.in/">Ganpat University Mehsana</a>.
 - I did Bsc.(Hons.) Computer Science from Ramanujan College, Delhi University.
+- Currently Working as Blockchain Developer Intern at <a href="coindelta.io">Coin Delta(Web4Next)</a>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -25,6 +26,7 @@
 
 <!--START_SECTION:colourise-->
 <p align=left>
+<img src="https://img.shields.io/badge/solidity-%3E=%200.6.8-black" />
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
