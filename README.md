@@ -18,7 +18,7 @@
 
 ✨ Animation and Motion in websites is my favourite thing.
 
-💻 Currently Expertising in Web-Development.
+💻 Currently Expertising in Solidity and Ethereum Network.
 
 
 <h3> 👨‍💻 Languages I use</h3>
