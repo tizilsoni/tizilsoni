@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<a href="ipfs://bafybeifu55ice3qufsbhwe57fxsax64kyockiruzceizuxb37odnypelha/?filename=TizilSoni.pdf"><img src="https://img.shields.io/badge/My%20CV-View-fc0303"></a>
+<a href="https://testnets.opensea.io/assets/mumbai/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86137715294043055991954262692226465258532404985767708990121859473801211805697"><img src="https://img.shields.io/badge/My%20CV-View-fc0303"></a>
 </p>
 </details>
 
