@@ -16,7 +16,7 @@
 
 🤖 I like to Automate Things as I'm Lazy.
 
-✨ Animation and Motion in websites is my favourite thing.
+✨ Intrigued By anything where financials are Involved like crypto or Markets.
 
 💻 Currently Expertising in Solidity and Ethereum Network.
 
